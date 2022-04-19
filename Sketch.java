@@ -31,7 +31,7 @@ public class Sketch extends PApplet {
   }
 
   /**
-   * Initializes values for global variables
+   * Sets up values for global variables and loads initial images
    * 
    * @param nothing
    * @return nothing
