@@ -87,7 +87,7 @@ public class Sketch extends PApplet {
       fltMovePacX = fltMovePacX * -1;
     }
     
-    if(fltPacY < 0 && fltMovePacY < 0  || fltPacY > 555 && fltMovePacY >0){
+    if(fltPacY < 0 && fltMovePacY < 0  || fltPacY > 555 && fltMovePacY > 0){
       fltMovePacY = fltMovePacY * -1;
     }
 
