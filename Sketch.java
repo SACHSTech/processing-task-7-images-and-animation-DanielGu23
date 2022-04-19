@@ -65,7 +65,8 @@ public class Sketch extends PApplet {
    * 
    */
   public void draw() {
-	  image(imgBackground, 0, 0);
+	  // Draw the Background image
+    image(imgBackground, 0, 0);
   
     // Draw a circle with x coordinate fltCircleX
     ellipse(fltCircleX, 200, 30, 30);
